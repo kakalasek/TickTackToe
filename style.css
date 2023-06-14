@@ -8,3 +8,9 @@
     width: 100px;
     height: 100px;
 }
+
+#winlabel{
+    display: block;
+    text-align: center;
+    font-size: 59px;
+}
